@@ -1,4 +1,4 @@
-# Hello World
+put "Hello World"
 
 ## Overview
 
